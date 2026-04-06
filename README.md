@@ -102,7 +102,7 @@ This project provides a basic understanding of how static websites can be deploy
 Author
 
 Shaik Shahensha
-CSE (2023–2027)
+CSE DSBDA A-1
 
 Refer to the video for more detailed understanding:
 
